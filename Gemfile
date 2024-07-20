@@ -19,7 +19,7 @@ gem "puma", "~> 5.6", ">= 5.6.8"
 gem "importmap-rails", ">= 1.2.0"
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
-gem "turbo-rails", ">= 1.5.0"
+gem "turbo-rails", ">= 2.0.6"
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails", ">= 1.2.2"
