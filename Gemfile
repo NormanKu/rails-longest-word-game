@@ -22,7 +22,7 @@ gem "importmap-rails", ">= 1.2.0"
 gem "turbo-rails", ">= 1.5.0"
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
-gem "stimulus-rails", ">= 1.2.2"
+gem "stimulus-rails", ">= 1.3.4"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
